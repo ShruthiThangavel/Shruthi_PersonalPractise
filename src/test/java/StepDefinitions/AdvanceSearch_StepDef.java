@@ -22,7 +22,7 @@ public class AdvanceSearch_StepDef {
 		//System.setProperty("webdriver.chrome.driver", "C:\\BrowserDrivers\\chromedriver-win32\\chromedriver.exe");
 				
 				driver.get("https://www.ebay.com/sch/ebayadvsearch");
-				System.out.println("User in advance search page page");
+				System.out.println("User in advance search page");
 				driver.manage().window().maximize();
 		
 	}
