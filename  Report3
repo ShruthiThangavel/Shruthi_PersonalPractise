@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.537">
+    <testcase classname="Ebay home Page behaviours" name="Samsung is searched" time="22.352">
+        <system-out><![CDATA[Given User on Ebay home page................................................passed
+When The 'Samsung' is entered in textBox and searched.......................passed
+Then the number of  results more than 1000 is validated.....................passed
+]]></system-out>
+    </testcase>
+</testsuite>
