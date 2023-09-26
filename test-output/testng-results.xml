@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-20T11:13:55 IST" name="Default suite" finished-at="2023-09-20T11:13:55 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2023-09-20T11:13:55 IST" name="Default test" finished-at="2023-09-20T11:13:55 IST" duration-ms="51">
+      <class name="TestNGPractice.Annotations">
+        <test-method is-config="true" signature="MethodBeforeSuite()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodBeforeSuite" finished-at="2023-09-20T11:13:55 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodBeforeSuite -->
+        <test-method is-config="true" signature="MethodBeforeTest()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodBeforeTest" finished-at="2023-09-20T11:13:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodBeforeTest -->
+        <test-method is-config="true" signature="MethodBeforeClass()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodBeforeClass" finished-at="2023-09-20T11:13:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodBeforeClass -->
+        <test-method is-config="true" signature="MethodBeforeMethod()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodBeforeMethod" finished-at="2023-09-20T11:13:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodBeforeMethod -->
+        <test-method signature="MethodTest()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodTest" finished-at="2023-09-20T11:13:55 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodTest -->
+        <test-method is-config="true" signature="MethodAfterMethod()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodAfterMethod" finished-at="2023-09-20T11:13:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodAfterMethod -->
+        <test-method is-config="true" signature="MethodBeforeMethod()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodBeforeMethod" finished-at="2023-09-20T11:13:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodBeforeMethod -->
+        <test-method signature="Test1()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="Test1" finished-at="2023-09-20T11:13:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="MethodAfterMethod()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodAfterMethod" finished-at="2023-09-20T11:13:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodAfterMethod -->
+        <test-method is-config="true" signature="MethodAfterClass()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodAfterClass" finished-at="2023-09-20T11:13:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodAfterClass -->
+        <test-method is-config="true" signature="MethodAfterTest()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodAfterTest" finished-at="2023-09-20T11:13:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodAfterTest -->
+        <test-method is-config="true" signature="MethodAfterSuite()[pri:0, instance:TestNGPractice.Annotations@71a8adcf]" started-at="2023-09-20T11:13:55 IST" name="MethodAfterSuite" finished-at="2023-09-20T11:13:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodAfterSuite -->
+      </class> <!-- TestNGPractice.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
